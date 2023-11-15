@@ -32,11 +32,14 @@ This QR Code Generator is a lightweight web application built with PHP and HTML.
 
 ## Screenshots
 
-![Enter Text](path-to-enter-text-screenshot.png)
+![Enter Text](src/test(1).png)
 *Enter Text: Users can input the desired text.*
 
-![Generated QR Code](path-to-generated-qr-code-screenshot.png)
+![Generated QR Code](src/test(3).png)
 *Generated QR Code: The QR Code image is generated and saved.*
+
+![QR Code image](src/3830e71f131b62767bafa1fa4c453609.png)
+*Your QR Code is created!*
 
 ## Dependencies
 
