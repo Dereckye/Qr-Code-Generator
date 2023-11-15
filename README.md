@@ -42,18 +42,13 @@ This QR Code Generator is a lightweight web application built with PHP and HTML.
 
 ![QR Code image](src/3830e71f131b62767bafa1fa4c453609.png)
 
-
-## Dependencies
-
-- [Bootstrap](https://getbootstrap.com/): Framework for styling.
-
 ## Code Attribution
 
 The project utilizes the "qrcode.php" script for generating QR Codes. The script is under the MIT license and portions of it are credited to Kreative Software and Donald Becker.
 
 ## Author
-
-Dereck Luiz.
+Dereck Luiz,
+email: [dereckluizs@gmail.com](mailto:dereckluizs@gmail.com)
 
 ## Acknowledgments
 
